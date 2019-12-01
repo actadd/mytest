@@ -1,10 +1,8 @@
 add content to mytest.txt
 and I again add content to this
 new I again update it
-<<<<<<< HEAD
 ---
 This Is The Master Branch Added To The File Content
-=======
 ===
 This Is The Dev Branch Added To The Content
->>>>>>> dev
+
