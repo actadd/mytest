@@ -1,1 +1,2 @@
 add content to mytest.txt
+and I again add content to this
